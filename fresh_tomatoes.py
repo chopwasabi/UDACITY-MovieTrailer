@@ -146,6 +146,7 @@ def create_movie_tiles_content(movies):
         trailer_youtube_id = youtube_id_match.group(0) if youtube_id_match else None
 
         # Append the tile for the movie with its content filled in
+        # Toba made some modification to permit the display of year and content in final output.
         content += movie_tile_content.format(
             movie_title=movie.title,
             release_year=movie.release_year,
