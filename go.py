@@ -41,6 +41,21 @@ gangs_of_ny = media.Movie("Gangs of New York",
                           "http://vignette4.wikia.nocookie.net/moviepedia/images/c/c6/Gangsofny.jpg/revision/latest?cb=20140212195522&path-prefix=de",
                           "https://www.youtube.com/watch?v=UYsS_3zdwmA")
 
+good_fellas = media.Movie("Good Fellas",
+                          "1990",
+                          "Martin Scorsese explores the life of organized crime \
+                          with his gritty, kinetic adaptation of Nicolas \
+                          Pileggi's best-selling Wiseguy, the true-life \
+                          account of mobster and FBI informant Henry Hill. \
+                          Set to a true-to-period rock soundtrack, \
+                          the story details the rise and fall of Hill, \
+                          a half-Irish, half-Sicilian New York kid who \
+                          grows up idolizing the \"wise guys\" in his \
+                          impoverished Brooklyn neighborhood....",
+                          "http://resizing.flixster.com/YxEaDEVBtcdFyE_4KaZrzU5voyM=/180x270/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/67/11166723_ori.jpg",
+                          "https://www.youtube.com/watch?v=qo5jJpHtI1Y")
+
+
 the_departed = media.Movie("The Departed",
                            "2006",
                            "An undercover cop and a mole in the police attempt \
